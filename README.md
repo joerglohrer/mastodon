@@ -1,0 +1,2 @@
+# mastodon
+## CC0
